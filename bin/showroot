@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd /
+echo "list all of the content in the root:"
+ls
+
+echo "show the home content:"
+cd home
+ls
